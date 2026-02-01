@@ -26,4 +26,5 @@ Built to help students learn from scratch using free resources.
 
 ### Search Page
 ![Search Page](./screenshots/search.png)
-
+### Resources page 
+! [Resourse page](./screenshots/Resources.png)
