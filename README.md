@@ -15,8 +15,7 @@ StudyHub is a curated learning platform that collects the best **free resources 
 - Replit
 
 ## 🌐 Live Demo
-https://study-hub-links.replit.app
-
+https://study-hub-links--23831a66d5.replit.app/
 ## 🎯 Purpose
 Built to help students learn from scratch using free resources.
 ## 📸 Screenshots
