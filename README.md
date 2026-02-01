@@ -22,7 +22,8 @@ Built to help students learn from scratch using free resources.
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
-
+"C:\Users\HP\OneDrive\Documents\screenshot\home.png"
 ### Search Resources
-![Search](screenshots/search.png)
+"C:\Users\HP\OneDrive\Documents\screenshot\search.png"
+### Resources page
+"C:\Users\HP\OneDrive\Documents\screenshot\resources.png"
