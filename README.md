@@ -26,7 +26,3 @@ Built to help students learn from scratch using free resources.
 
 ### Search Resources
 ![Search](screenshots/search.png)
-
----
-
-⭐ Feel free to star the repo if you like it!
