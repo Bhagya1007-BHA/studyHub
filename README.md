@@ -21,11 +21,12 @@ https://study-hub-links.replit.app
 Built to help students learn from scratch using free resources.
 ## 📸 Screenshots
 
-### Home Page
+### 🏠 Home Page
 ![Home Page](./screenshots/home.png)
 
-### Search Page
+### 🔍 Search Page
 ![Search Page](./screenshots/search.png)
 
-### Resources page 
-![Resources page](./screenshots/Resources.png)
+### 📚 Resources Page
+![Resources Page](./screenshots/resources.png)
+
