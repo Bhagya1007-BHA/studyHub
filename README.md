@@ -19,6 +19,13 @@ https://study-hub-links.replit.app
 
 ## 🎯 Purpose
 Built to help students learn from scratch using free resources.
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Search Resources
+![Search](screenshots/search.png)
 
 ---
 
